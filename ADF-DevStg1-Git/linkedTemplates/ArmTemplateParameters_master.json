@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADF-DevStg1-Git"
 		},
+		"LinkedService_Storageacc3ls_Git_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
