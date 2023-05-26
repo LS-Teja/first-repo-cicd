@@ -1,0 +1,9 @@
+{
+	"name": "ADF-DevStg1-Git",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3fdf6cb0-6e98-4262-9943-76445e7c88b0",
+		"tenantId": "699ace67-d2e4-4bcd-b303-d2bbe2b9bbf1"
+	}
+}
