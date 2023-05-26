@@ -1,9 +1,0 @@
-{
-	"name": "ADF-DevStg1-Method2",
-	"location": "uksouth",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "1779037b-11f8-4986-a6f9-db83596cee94",
-		"tenantId": "699ace67-d2e4-4bcd-b303-d2bbe2b9bbf1"
-	}
-}
