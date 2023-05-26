@@ -1,0 +1,9 @@
+{
+	"name": "ADF-DevStg1",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ebd06d2a-3737-4be1-a9b7-8175a81c56f7",
+		"tenantId": "699ace67-d2e4-4bcd-b303-d2bbe2b9bbf1"
+	}
+}
