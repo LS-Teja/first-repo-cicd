@@ -1,9 +1,0 @@
-{
-	"name": "ADF-DevStg1-GitHub",
-	"location": "uksouth",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "881ef7d9-85d7-40ed-997c-0772051d258d",
-		"tenantId": "699ace67-d2e4-4bcd-b303-d2bbe2b9bbf1"
-	}
-}
